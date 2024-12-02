@@ -9,7 +9,7 @@ export default function PeopleAndPartners() {
             Meet Our Team and Partners
           </h1>
           <p className='text-xl max-w-3xl mx-auto'>
-            Together, we're working to create lasting positive change in
+            Together, we re working to create lasting positive change in
             communities around the world.
           </p>
         </div>

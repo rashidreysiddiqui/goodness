@@ -48,7 +48,7 @@ export default function Testimonials() {
         <div className='relative max-w-3xl mx-auto'>
           <div className='text-center'>
             <p className='text-xl italic mb-4'>
-              "{testimonials[currentTestimonial].quote}"
+              {testimonials[currentTestimonial].quote}
             </p>
             <div className='flex items-center justify-center mb-4'>
               <Image

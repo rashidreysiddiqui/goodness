@@ -183,7 +183,7 @@ export default function WhatWeDo() {
                 />
                 <div className='p-6'>
                   <h3 className='text-xl font-semibold mb-2'>{story.title}</h3>
-                  <p className='text-gray-600 mb-4'>"{story.quote}"</p>
+                  <p className='text-gray-600 mb-4'>{story.quote}</p>
                   <Button
                     variant='link'
                     className='text-[#001F54] hover:text-[#32CD32]'

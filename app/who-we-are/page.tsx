@@ -19,7 +19,7 @@ export default function WhoWeAre() {
       <section className='py-16'>
         <div className='container mx-auto px-4'>
           <h2 className='text-3xl font-bold mb-8 text-center'>
-            The Problem We're Addressing
+            The Problem We re Addressing
           </h2>
           <div className='flex flex-col md:flex-row items-center gap-8'>
             <div className='md:w-1/2'>
